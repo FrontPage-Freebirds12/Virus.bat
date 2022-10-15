@@ -1,2 +1,2 @@
 # Virus.bat
-A computer Virus run on your own risk 
+A computer Virus run it on your own risk 
